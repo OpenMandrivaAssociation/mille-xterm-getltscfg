@@ -17,7 +17,6 @@ BuildRequires:	uClibc-flex
 BuildRequires:	uClibc-devel
 BuildRequires:	uClibc-static-devel
 BuildRequires:	flex
-BuildRoot:	%{_tmppath}/%{name}-root
 
 %description
 This program is used in LTSP to read the lts.cfg config file.
