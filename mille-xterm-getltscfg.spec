@@ -6,7 +6,7 @@
 Summary:	Tool to parse LTSP configuration
 Name:		mille-xterm-getltscfg
 Version:	1.0
-Release:	%mkrel 0.%{svn}.2
+Release:	%mkrel 0.%{svn}.3
 License:	GPL
 Group:		System/Libraries
 URL:		http://www.ltsp.org
