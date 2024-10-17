@@ -9,7 +9,7 @@ Version:	1.0
 Release:	%mkrel 0.%{svn}.4
 License:	GPL
 Group:		System/Libraries
-URL:		http://www.ltsp.org
+URL:		https://www.ltsp.org
 Source0:	http://www.ltsp.org/tarballs/%{name}-%{version}.tar.bz2
 BuildRequires:	bison
 BuildRequires:	uClibc-popt-devel
